@@ -1,1 +1,1 @@
-# CS163_Dictionary_Group11
+# dictionary-cpp
